@@ -6,3 +6,12 @@ This description is written in Markdown, which is commonly used on GitHub for do
 Task 1: This command-line BMI (Body Mass Index) calculator prompts users to input their weight (in kilograms) and height (in meters).It then calculates the BMI using the formula: BMI = weight / (height * height).The calculated BMI is then categorized into predefined ranges representing different weight status categories, such as underweight, normal weight, overweight, etc.
 The code follows these steps:
 Prompt the user to enter their weight and height. Validate the input to ensure it is a valid numerical value.Calculate the BMI using the provided formula.Categorize the BMI into predefined ranges and determine the corresponding weight status.Display the calculated BMI and weight status to the user.
+
+Task 2:This Python script implements a basic voice assistant capable of performing simple tasks based on voice commands. The assistant responds to common greetings like "Hello" with predefined responses, tells the current time or date upon request, and can perform basic web searches for information based on user queries.
+Features
+1. Greeting Responses:
+   - When the user says "Hello" or a similar greeting, the assistant responds with a predefined friendly message.
+2. Time and Date Information:
+   - Upon receiving a command like "What's the time?" or "Tell me the date," the assistant provides the current time or date.
+3. Web Search:
+   - The assistant can search the web for information based on user queries. For example, saying "Search for Python programming" triggers a web search for information on Python programming.
