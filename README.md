@@ -15,3 +15,11 @@ Features
    - Upon receiving a command like "What's the time?" or "Tell me the date," the assistant provides the current time or date.
 3. Web Search:
    - The assistant can search the web for information based on user queries. For example, saying "Search for Python programming" triggers a web search for information on Python programming.
+
+Task 3:This Python script serves as a command-line password generator, allowing users to generate random passwords based on their specified criteria. Users can define the length of the password and choose which character types to include (letters, numbers, symbols). The generator ensures the creation of strong and secure passwords by providing flexibility in customization.
+1. Password Length:
+   - Users can specify the length of the generated password.
+2. Character Set Preferences:
+   - Users can choose to include letters (both uppercase and lowercase), numbers, and symbols in their passwords.
+3. Secure and Randomized Generation:
+   - The script uses the `secrets` module to ensure secure and cryptographically strong randomization in password generation.
