@@ -23,3 +23,5 @@ Task 3:This Python script serves as a command-line password generator, allowing 
    - Users can choose to include letters (both uppercase and lowercase), numbers, and symbols in their passwords.
 3. Secure and Randomized Generation:
    - The script uses the `secrets` module to ensure secure and cryptographically strong randomization in password generation.
+
+#THANK YOU.
