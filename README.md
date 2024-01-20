@@ -24,4 +24,4 @@ Task 3:This Python script serves as a command-line password generator, allowing 
 3. Secure and Randomized Generation:
    - The script uses the `secrets` module to ensure secure and cryptographically strong randomization in password generation.
 
-#THANK YOU.
+**THANK YOU*.
